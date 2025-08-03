@@ -1,6 +1,6 @@
 # Machine_Learning_clg
 
-**1. Assignment - 1:**
+**Assignment - 1:**
 **COVID-19 Data Cleaning and Exploratory Data Analysis (EDA)**
 
 Project Overview
