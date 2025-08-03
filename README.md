@@ -3,20 +3,19 @@
 **Assignment - 1:**
 **COVID-19 Data Cleaning and Exploratory Data Analysis (EDA)**
 
-Project Overview
+Project Overview:
   This repository hosts a Python-based mini-project focused on Data Cleaning and Exploratory Data Analysis (EDA) of a real-world COVID-19 dataset. The objective is to transform raw, inconsistent data into a clean, usable format and to extract valuable insights    through visual and statistical analysis. This project demonstrates essential data preprocessing techniques crucial for any data science workflow.
 
-Dataset
-The dataset used for this analysis is covid_19_data.csv, likely sourced from platforms like UCI or Kaggle. It contains daily COVID-19 statistics including case counts, deaths, and recoveries across various regions.
+Dataset: https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset
 
-Requirements
+Requirements:
 To run this notebook, you will need:
 -Python 3 
 -Jupyter Notebook 
 -Libraries: 
   pandas, numpy, scikit-learn (for SimpleImputer, zscore, LabelEncoder, VarianceThreshold, SelectKBest, SelectPercentile, PCA, StandardScaler), matplotlib.pyplot, seaborn.
 
-Methodology & Key Steps
+Methodology & Key Steps:
   The project follows a standard data cleaning and EDA pipeline to ensure data quality and derive insights:
 
 1. Data Loading and Initial Inspection:
